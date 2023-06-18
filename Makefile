@@ -1,13 +1,16 @@
 top = $(shell git rev-parse --show-toplevel)
+key = $(shell basename ${top})
 
-all: startup-business-primer.md startup-business-primer.pdf
+all: ${key}.md ${key}.pdf
+
+new: clean all
 
 .PHONY: clean
 clean:
-	rm -f startup-business-primer.{md,pdf}
+	rm -f ${key}.{md,pdf}
 
-startup-business-primer.md:
-	book-binder config.yml startup-business-primer.md contents.md "${top}/../topics/topics" "https://github.com/SixArm/topics/tree/main/topics"
+${key}.md:
+	book-binder config.yml ${key}.md contents.md "${top}/../topics/topics" "https://github.com/SixArm/topics/tree/main/topics"
 
-startup-business-primer.pdf:
-	pandoc-from-markdown-to-pdf startup-business-primer.md -o startup-business-primer.pdf
+${key}.pdf:
+	pandoc-from-markdown-to-pdf ${key}.md -o ${key}.pdf

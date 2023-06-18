@@ -461,7 +461,9 @@
 
 * [AI business strategy](ai-business-strategy)
 * [AI product development](ai-product-development)
+* [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
+* [AI UI/UX](ai-ui-ux)
 * [AI ethics](ai-ethics)
 * [AI plagiarism checker](ai-plagiarism-checker)
 * [AI internationalization/localization](ai-internationalization-localization)
