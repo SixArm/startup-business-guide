@@ -372,22 +372,6 @@
 * [Net Promoter Score (NPS)](net-promoter-score)
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
-### [Product design](product-design)
-
-* [Mockups](mockups)
-* [Wireframes](wireframes)
-* [Personas](personas)
-* [Journeys](journeys)
-* [Focus group](focus-group)
-* [Use cases](use-cases)
-* [User stories](user-stories)
-* [Use cases versus user stories](use-cases-and-user-stories)
-* [Design charrette](design-charrette)
-* [Design thinking](design-thinking)
-* [Gamification](gamification)
-* [Low-fidelity prototype](low-fidelity-prototype)
-* [High-fidelity prototype](high-fidelity-prototype)
-
 ## Teamwork
 
 ### [Roles and responsibilities](roles-and-responsibilities)
