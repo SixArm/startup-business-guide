@@ -461,8 +461,11 @@
 
 * [AI business strategy](ai-business-strategy)
 * [AI product development](ai-product-development)
+* [AI product development](ai-product-development)
+* [AI customer service](ai-customer-service)
 * [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
+* [AI resource leveling](ai-resource-leveling)
 * [AI UI/UX](ai-ui-ux)
 * [AI ethics](ai-ethics)
 * [AI plagiarism checker](ai-plagiarism-checker)
@@ -473,6 +476,7 @@
 * [AI sales](ai-sales)
 * [AI marketing](ai-marketing)
 * [AI accounting](ai-accounting)
+* [AI human resources](ai-human-resources)
 
 ### [AI + business sectors](ai-plus-business-sectors)
 
