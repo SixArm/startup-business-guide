@@ -1,5 +1,4 @@
-# Startup Business Primer
-
+### [Introduction](startup-business-primer-introduction)
 
 ## Launch
 
@@ -7,16 +6,21 @@
 
 * [Value proposition](value-proposition)
 * [Elevator pitch](elevator-pitch)
-* [Pitch deck](pitch-deck) + [competition](pitch-competition)
+* [Pitch deck](pitch-deck)
+* [Pitch competition](pitch-competition)
 * [Business Model Canvas (BMC)](business-model-canvas)
-* [Business plan](business-plan) + [competition](business-plan-competition)
+* [Business plan](business-plan) 
+* [Business plan competition](business-plan-competition)
 * [Demo day](demo-day)
 
 ### [Startup discovery](startup-discovery)
 
-* [Market discovery](market-discovery) + [questions](market-discovery-questions)
-* [Customer discovery](customer-discovery) + [questions](customer-discovery-questions)
-* [Product discovery](product-discovery) + [questions](product-discovery-questions)
+* [Market discovery](market-discovery)
+* [Market discovery questions](market-discovery-questions)
+* [Customer discovery](customer-discovery)
+* [Customer discovery questions](customer-discovery-questions)
+* [Product discovery](product-discovery)
+* [Product discovery questions](product-discovery-questions)
   
 ### [Startup life cycle](startup-life-cycle)
 
@@ -74,11 +78,16 @@
 
 ### [Business models](business-models)
 
-* [Direct sales business model](direct-sales-business-model) + [pros/cons](direct-sales-business-model-pros-cons)
-* [Subscription business model](subscription-business-model) + [pros/cons](subscription-business-model-pros-cons)
-* [Advertising business model](advertising-business-model) + [pros/cons](advertising-business-model-pros-cons)
-* [Marketplace business model](marketplace-business-model) + [pros/cons](marketplace-business-model-pros-cons)
-* [Franchise business model](franchise-business-model) + [pros/cons](franchise-business-model-pros-cons)
+* [Direct sales business model](direct-sales-business-model)
+* [Direct sales business model - pros/cons](direct-sales-business-model-pros-cons)
+* [Subscription business model](subscription-business-model)
+* [Subscription business model - pros/cons](subscription-business-model-pros-cons)
+* [Advertising business model](advertising-business-model)
+* [Advertising business model - pros/cons](advertising-business-model-pros-cons)
+* [Marketplace business model](marketplace-business-model)
+* [Marketplace business model - pros/cons](marketplace-business-model-pros-cons)
+* [Franchise business model](franchise-business-model)
+* [Franchise business model - pros/cons](franchise-business-model-pros-cons)
 
 ### [Strategic effects](strategic-effects)
 
@@ -88,7 +97,7 @@
 * [Viral effects](viral-effects)
 * [Moat effects](moat-effects)
 * [Scale effects](scale-effects)
-* [Leverage effects](leverage-effects))
+* [Leverage effects](leverage-effects)
 * [Monopoly effects](monopoly-effects)
 
 ### [Business analysis](business-analysis)
@@ -268,12 +277,12 @@
 * [Brand positioning](brand-positioning)
 * [Brand ambassador](brand-ambassador)
 
+
 ## Planning
 
 
-### Where are you going?
+## [North Star](north-star)
 
-* [North Star](north-star)
 * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
 * [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
 * [Ideation](ideation)
@@ -283,9 +292,12 @@
 * [SCAMPER](scamper)
 * [Oblique strategies](oblique-strategies)
 * [Futurespective](futurespective)
-* [Storyboard](storyboard) + [steps](storyboard-steps)
+* [Storyboard](storyboard)
+* [Storyboard steps](storyboard-steps)
+* [Gantt chart](gantt-chart)
+* [Quad chart](quad-chart)
 
-### How will you proceed?
+## [Intent plan](intent-plan)
 
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Key Performance Indicators (KPIs)](key-performance-indicators)
@@ -295,7 +307,6 @@
 * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
 * [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
 * [SPADE decision framework](spade-decision-framework)
-* [Intent plan](intent-plan)
 * [SMART criteria](smart-criteria)
 * [Cynefin framework](cynefin-framework)
 * [Issue tracker](issue-tracker)
@@ -327,30 +338,8 @@
 * [Go-to-market strategy](go-to-market-strategy)
 * [Strategy map](strategy-map)
 * [EBFAS organizational climate](ebfas-organizational-climate)
-
-### [Project management](project-management)
-
-* [Inception](inception)
-* [Liftoff](liftoff)
-* [Agile chartering](agile-chartering)
-* [Project charter](project-charter)
-* [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
-* [Statement Of Work (SOW)](statement-of-work)
-* [Functional specifications](functional-specifications) + [steps](functional-specifications-steps)
-* [Software development life cycle (SDLC)](software-development-life-cycle)
-* [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
-* [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
-* [Critical chain project management](critical-chain-project-management)
-* [Critical path project management](critical-path-project-management)
-* [Constraint satisfaction](constraint-satisfaction)
-* [Resource leveling](resource-leveling)
-* [Gantt chart](gantt-chart)
-* [Quad chart](quad-chart)
-* [Kanban](kanban)
-* [Scrum](scrum)
-* [Lean manufacturing](lean-manufacturing)
-* [Lean software development](lean-software-development)
-* [Agile software development methodology](agile-software-development-methodology)
+* [Project management](project-management) - See Project Management Primer
+* [UI/UX](ui-ux) - See UI/UX Primer
   
 ## Design Development
 
@@ -413,7 +402,8 @@
 * [Business information systems](business-information-systems)
 * [Change management](change-management)
 * [Line-of-business (LOB) application](line-of-business-application)
-* [Front-office applications and back-office applications](front-office-applications-and-back-office-applications)
+* [Front-office applications](front-office-applications)
+* [Back-office applications](back-office-applications)
 * [Standard Operating Procedure (SOP)](standard-operating-procedure)
 * [Playbook](playbook)
 * [Runbook](runbook)
@@ -461,7 +451,7 @@
 
 * [AI business strategy](ai-business-strategy)
 * [AI product development](ai-product-development)
-* [AI product development](ai-product-development)
+* [AI project management](ai-project-management)
 * [AI customer service](ai-customer-service)
 * [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
@@ -591,6 +581,7 @@
 
 ## Law
 
+
 ### [Intellectual Property (IP)](intellectual-property)
 
 * [Patent](patent)
@@ -658,13 +649,14 @@
 
 ## Major league
 
+
 ### [Globalization](globalization)
  
 * [Global business](global-business)
 * [Global business modes](global-business-modes)
 * [Cross-border controls](cross-border-controls)
-* [Internationalization and localization](internationalization-and-localization) + [steps](internationalization-and-localization-steps)
-
+* [Internationalization and localization](internationalization-and-localization)
+  
 ### [Global business regions](global-business-regions)
     
 * [The Americas (AMERS) region](the-americas-region)
@@ -691,6 +683,7 @@
 
 
 ## Lore
+
 
 ### [Aphorisms](aphorisms)
 
@@ -749,8 +742,18 @@
 * [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
 * [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
 
-## About this project
+### [Soft skills](soft-skills)
+
+* [How to give a demo](how-to-give-a-demo)
+* [How to collaborate](how-to-collaborate)
+* [How to lead a meeting](how-to-lead-a-meeting)
+* [How to work with stakeholders](how-to-work-with-stakeholders)
+* [How to get feedback](how-to-get-feedback)
+* [How to give feedback](how-to-give-feedback)
+
+## [About this project
 
 * [About the author](about-the-author)
+* [About the AI](about-the-ai)
 * [About the ebook PDF](about-the-ebook-pdf)
 * [About related projects](about-related-projects)
