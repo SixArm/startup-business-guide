@@ -67,7 +67,6 @@
 * [How to find startup recruiters](how-to-find-startup-recruiters)
 * [How to find startup loans](how-to-find-startup-loans)
 
-
 ## Strategy
 
 ### [Vision, Mission, Values](vision-mission-values)
@@ -121,9 +120,7 @@
 * [Early adopters](early-adopters)
 * [Early evangelists](early-evangelists)
 
-
 ## Industry introductions
-
 
 ### [Technology sectors](technology-sectors)
 
@@ -139,7 +136,6 @@
 * [Medtech (Medical technology)](medtech)
 * [Regtech (Regulatory technology)](regtech)
 * [Realtech (Real estate technology)](realtech)
-
 
 ## Company touchpoints
 
@@ -243,7 +239,6 @@
 * [Freemium](freemium)
 * [Free trial](free-trial)
 
-
 ## Marketing
 
 ### [Marketing introduction](marketing)
@@ -277,9 +272,7 @@
 * [Brand positioning](brand-positioning)
 * [Brand ambassador](brand-ambassador)
 
-
 ## Planning
-
 
 ## [North Star](north-star)
 
@@ -361,21 +354,20 @@
 * [Net Promoter Score (NPS)](net-promoter-score)
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
-## Teamwork
+### [Teamwork](teamwork)
 
-### [Roles and responsibilities](roles-and-responsibilities)
+* [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
+* [Icebreaker questions](icebreaker-questions)
+
+### Composition
 
 * [Organizational chart](organizational-chart)
 * [Chain of command](chain-of-command)
 * [Stakeholders](stakeholders)
+* [Roles and responsibilities](roles-and-responsibilities)
 * [Responsibility assignment matrix (RAM)](responsibility-assignment-matrix)
 * [RACI matrix](raci-matrix)
 * [PARIS matrix](paris-matrix)
-
-### Formation
-
-* [Icebreaker questions](icebreaker-questions)
-* [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
 
 ### Team shapes
 
@@ -408,8 +400,9 @@
 * [Playbook](playbook)
 * [Runbook](runbook)
 
-### Meetings
+### [Meetings](meetings)
 
+* [Meeting types](meeting-types)
 * [All-hands meeting](all-hands-meeting)
 * [Standup meeting](standup-meeting)
 * [One-on-one meeting](one-on-one-meeting)
@@ -447,7 +440,7 @@
 * [Monte Carlo methods](monte-carlo-methods)
 * [Statistical analysis techniques](statistical-analysis-techniques)
 
-## [Artificial intelligence (AI)](artificial-intelligence)
+### [Artificial intelligence (AI)](artificial-intelligence)
 
 * [AI business strategy](ai-business-strategy)
 * [AI product development](ai-product-development)
@@ -521,8 +514,7 @@
 * [Carried interest](carried-interest)
 * [Due diligence](due-diligence)
 
-
-## Fundraising areas
+## Fundraising
 
 ### [Investors](investors)
 
@@ -578,9 +570,7 @@
 * [Sequoia Capital](sequoiacap.com)
 * [Y Combinator (YC)](ycombinator.com)
 
-
 ## Law
-
 
 ### [Intellectual Property (IP)](intellectual-property)
 
@@ -646,9 +636,7 @@
 * [Family Educational Rights and Privacy Act (FERPA)](family-educational-rights-and-privacy-act)
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
   
-
 ## Major league
-
 
 ### [Globalization](globalization)
  
@@ -681,9 +669,7 @@
 * [Enterprise Architecture (EA)](enterprise-architecture)
 * [Enterprise software](enterprise-software)
 
-
 ## Lore
-
 
 ### [Aphorisms](aphorisms)
 
@@ -700,33 +686,17 @@
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [The Principle of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 * [Chesterton's fence](chestertons-fence)
+* [The Tragedy of the Commons](the-tragedy-of-the-commons)
 
 ### [Idioms](idioms)
 
 * [Quick wins](quick-wins)
-* [Low-hanging fruit](low-hanging-fruit)
-* [Win-win](win-win)
-* [Buy-in](buy-in)
-* [Have a think](have-a-think)
 * [Think outside of the box](think-outside-of-the-box)
 * [Unknown unknowns](unknown-unknowns)
 * [Stretch goal](stretch-goal)
-* [The proof is in the pudding](the-proof-is-in-the-pudding)
-* [On the bench](on-the-bench)
-* [On the radar](on-the-radar)
-* [The ball is in your court](the-ball-is-in-your-court)
-* [Get on the front foot](get-on-the-front-foot)
-* [Buy One, Get One (BOGO)](buy-one-get-one)  
-* [Skin in the game](skin-in-the-game)
-* [Put a pin in it](put-a-pin-in-it)
-* [Out of scope](out-of-scope)
-* [Over the horizon](over-the-horizon)
-* [Boil the ocean](boil-the-ocean)
 * [Firefighting mode](firefighting-mode)
-* [Barking up the wrong tree](barking-up-the-wrong-tree)
-* [Swoop and poop](swoop-and-poop)
-* [The Tragedy of the Commons](the-tragedy-of-the-commons)
- 
+* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+
 ### [Entrepreneur quotations](entrepreneur-quotations)
 
 * [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
