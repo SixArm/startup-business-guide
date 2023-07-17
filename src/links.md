@@ -2,6 +2,17 @@
 
 ## Launch
 
+### [How to find startup help](how-to-find-startup-help)
+
+* [How to find startup ideas](how-to-find-startup-ideas)
+* [How to find startup mentors](how-to-find-startup-mentors)
+* [How to find startup investors](how-to-find-startup-investors)
+* [How to find startup employees](how-to-find-startup-employees)
+* [How to find startup customers](how-to-find-startup-customers)
+* [How to find startup consultants](how-to-find-startup-consultants)
+* [How to find startup recruiters](how-to-find-startup-recruiters)
+* [How to find startup loans](how-to-find-startup-loans)
+
 ### [Pitching](pitching)
 
 * [Value proposition](value-proposition)
@@ -75,7 +86,7 @@
 * [Mission statement](mission-statement) + [examples](mission-statement-examples)
 * [Values statement](values-statement) + [examples](values-statement-examples)
 
-### [Business models](business-models)
+### [Business model](business-model)
 
 * [Direct sales business model](direct-sales-business-model)
 * [Direct sales business model - pros/cons](direct-sales-business-model-pros-cons)
@@ -95,6 +106,7 @@
 * [Flywheel effects](flywheel-effects)
 * [Viral effects](viral-effects)
 * [Moat effects](moat-effects)
+* [Threshold effects](threshold-effects)
 * [Scale effects](scale-effects)
 * [Leverage effects](leverage-effects)
 * [Monopoly effects](monopoly-effects)
@@ -119,6 +131,8 @@
 * [Crossing the chasm](crossing-the-chasm-by-geoffrey-moore)
 * [Early adopters](early-adopters)
 * [Early evangelists](early-evangelists)
+* [Cold start problem](cold-start-problem)
+* [Cold start strategy](cold-start-strategy)
 
 ## Industry introductions
 
@@ -174,16 +188,21 @@
 * [Government Relations (GR)](government-relations)
 * [Developer Relations (DR)](developer-relations)
 
-### Company roles and responsibilities
+### Company management roles
 
+* [Chief of Staff (CoS)](chief-of-staff)
 * [Account Executive (AE)](account-executive)
 * [Account Manager (AM)](account-manager)
 * [Sales Engineer (SE)](sales-engineer)
 * [Product Manager](product-manager)
 * [Project Manager (PM)](project-manager)
+* [Partnership Manager](partnership-manager)
+* [General Manager (GM)](general-manager)
+* [Grants Manager](grants-manager)
+* [Community Manager](community-manager)
+* [Compliance Manager](compliance-manager)
 * [Customer Service Representative (CSR)](customer-service-representative)
 * [Subject Matter Expert (SME)](subject-matter-expert)
-* [Community manager](community-manager)
 
 ### [Organizational values frameworks](organizational-values-frameworks)
 
@@ -279,6 +298,7 @@
 * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
 * [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
 * [Ideation](ideation)
+* [Shoshin](shoshin)
 * [Creative thinking techniques](creative-thinking-techniques)
 * [Brainstorming](brainstorming)
 * [Thinking hats](thinking-hats)
@@ -442,9 +462,10 @@
 
 ### [Artificial intelligence (AI)](artificial-intelligence)
 
-* [AI business strategy](ai-business-strategy)
-* [AI product development](ai-product-development)
-* [AI project management](ai-project-management)
+* [AI for business strategy](ai-for-business-strategy)
+* [AI for product development](ai-for-product-development)
+* [AI for project management](ai-for-project-management)
+* [AI for partner management](ai-for-partner-management)
 * [AI customer service](ai-customer-service)
 * [AI content generator](ai-content-generator)
 * [AI image generation](ai-image-generation)
@@ -588,7 +609,6 @@
 * [C Corporation](c-corporation)
 * [S Corporation](s-corporation)
 * [B Corporation](b-corporation)
-* [Joint Venture Agreement (JVA)](joint-venture-agreement)
 
 ### [Legal agreements](legal-agreements)
 
@@ -597,6 +617,8 @@
 * [Consulting agreement](consulting-agreement)
 * [Subcontracting agreement](subcontracting-agreement)
 * [Framework agreement](framework-agreement)
+* [Partnership agreement](partnership-agreement)
+* [Joint Venture agreement (JVA)](joint-venture-agreement)
 * [Confidentiality agreement](confidentiality-agreement)
 * [Non-disclosure agreement (NDA)](non-disclosure-agreement)
 * [Non-compete agreement](non-compete-agreement)

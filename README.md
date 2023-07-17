@@ -1,4 +1,15 @@
+<!--
+* browser: startup-business-primer
+* tracker: af923c5383c0a63101de326f9b28adad
+* version: 1.2.0
+* updated: 2023-07-17T20:23:50Z
+* contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+* options: commentable
+-->
+
 # Startup Business Primer
+
+<img src="README.jpg" alt="splash" style="width: 100%;"/>
 
 Startup Business Primer: Concepts, Tactics, Ideas.
 
@@ -8,15 +19,9 @@ Download the [free e-book](startup-business-primer.pdf)
 
 You can [pay what you want](https://gumroad.com/l/startup-business-primer)
 
-Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
+Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 
 For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
-
-Related primers:
-
-* [Project Management Primer](https://github.com/sixarm/project-management-primer)
-* [UI/UX Primer](https://github.com/sixarm/ui-ux-primer)
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
 ## Contents
 
@@ -97,7 +102,7 @@ Vision, Mission, Values
   * Mission statement](mission-statement) + [examples
   * Values statement](values-statement) + [examples
 
-Business models
+Business model
 
   * Direct sales business model
   * Direct sales business model - pros/cons
@@ -141,6 +146,8 @@ Time-to-market (TTM)
   * Crossing the chasm
   * Early adopters
   * Early evangelists
+  * Cold start problem
+  * Cold start strategy
 
 Industry introductions
 
@@ -345,7 +352,6 @@ Change management
 
 Miscellaneous
 
-  
   * Creative Enterprise Zone (CEZ)
   * Economic moat
   * Economies of scale
@@ -356,7 +362,6 @@ Miscellaneous
   * EBFAS organizational climate
   * Project management
   * UI/UX
-  
 
 Design Development
 
@@ -399,11 +404,9 @@ Team shapes
   * Squad team
   * Community of Practice (CoP)
   * The Spotify Model
-  
 
 Team locations
 
-  
   * Outsourcing
   * Offshoring
   * Nearshoring
@@ -504,7 +507,6 @@ AI + business sectors
 
 Accounting
 
-  
   * Generally Accepted Accounting Principles (GAAP)
   * Profit and loss (P&L)
   * Gross profit and net profit
@@ -575,7 +577,6 @@ Valuation
 
 Stock options
 
-  
   * Employee stock option pool
   * Employee stock purchase plan (ESPP)
   * Restricted stock units (RSUs)
@@ -683,7 +684,6 @@ Global business regions
 
 Visa sponsorship
 
-  
   * US H-1B Visa
   * UK Global Talent Visa
   * EU Blue Card
@@ -756,3 +756,15 @@ About this project
   * About the AI
   * About the ebook PDF
   * About related projects
+
+## All our primers
+
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+
+* [Project Management Primer](https://github.com/sixarm/project-management-primer)
+
+* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
