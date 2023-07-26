@@ -10,7 +10,7 @@ clean:
 	rm -f build.md ${key}.pdf
 
 build.md:
-	book-binder start.yml links.md build.md 
+	book-binder start.yml links.md build.md
 
 ${key}.pdf:
 	pandoc-from-markdown-to-pdf build.md -o ${key}.pdf

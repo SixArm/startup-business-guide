@@ -1,4 +1,4 @@
-### [Introduction](startup-business-primer-introduction)
+### [Introduction](startup-business-guide-introduction)
 
 ## Launch
 
@@ -12,6 +12,8 @@
 * [How to find startup consultants](how-to-find-startup-consultants)
 * [How to find startup recruiters](how-to-find-startup-recruiters)
 * [How to find startup loans](how-to-find-startup-loans)
+* [How to create a minimum viable product](how-to-create-a-minimum-viable-product)
+* [How to achieve product market fit](how-to-achieve-product-market-fit)
 
 ### [Pitching](pitching)
 
@@ -20,7 +22,7 @@
 * [Pitch deck](pitch-deck)
 * [Pitch competition](pitch-competition)
 * [Business Model Canvas (BMC)](business-model-canvas)
-* [Business plan](business-plan) 
+* [Business plan](business-plan)
 * [Business plan competition](business-plan-competition)
 * [Demo day](demo-day)
 
@@ -32,7 +34,7 @@
 * [Customer discovery questions](customer-discovery-questions)
 * [Product discovery](product-discovery)
 * [Product discovery questions](product-discovery-questions)
-  
+
 ### [Startup life cycle](startup-life-cycle)
 
 * [Product-market fit (PMF)](product-market-fit)
@@ -42,6 +44,7 @@
 * [Minimum viable product (MVP)](minimum-viable-product)
 * [Minimum lovable product (MLP)](minimum-lovable-product)
 * [Minimum learnable product (MLnP)](minimum-learnable-product)
+* [Minimum Effective Dose (MED)](minimum-effective-dose)
 * [Investment Readiness Level (IRL)](investment-readiness-level)
 
 ### [Startup entrances](startup-entrances)
@@ -67,16 +70,6 @@
 * [Acquihire](acquihire)
 * [Unicorn](unicorn)
 * [Zombie](zombie)
-
-### [How to find startup help](how-to-find-startup-help)
-
-* [How to find startup ideas](how-to-find-startup-ideas)
-* [How to find startup mentors](how-to-find-startup-mentors)
-* [How to find startup investors](how-to-find-startup-investors)
-* [How to find startup employees](how-to-find-startup-employees)
-* [How to find startup consultants](how-to-find-startup-consultants)
-* [How to find startup recruiters](how-to-find-startup-recruiters)
-* [How to find startup loans](how-to-find-startup-loans)
 
 ## Strategy
 
@@ -113,7 +106,7 @@
 
 ### [Business analysis](business-analysis)
 
-* [Five Forces analysis](five-forces-analysis)  
+* [Five Forces analysis](five-forces-analysis)
 * [PESTLE analysis](pestle-analysis)
 * [SWOT analysis](swot-analysis)
 * [Feasibility analysis](feasibility-analysis)
@@ -342,7 +335,7 @@
 * [ADKAR change management model](adkar-change-management-model)
 
 ### Miscellaneous
-  
+
 * [Creative Enterprise Zone (CEZ)](creative-enterprise-zone)
 * [Economic moat](economic-moat)
 * [Economies of scale](economies-of-scale)
@@ -351,9 +344,9 @@
 * [Go-to-market strategy](go-to-market-strategy)
 * [Strategy map](strategy-map)
 * [EBFAS organizational climate](ebfas-organizational-climate)
-* [Project management](project-management) - See Project Management Primer
-* [UI/UX](ui-ux) - See UI/UX Primer
-  
+* [Project management](project-management) - See Project Management Guide
+* [UI/UX](ui-ux) - See UI/UX Guide
+
 ## Design Development
 
 * [Big design up front (BDUF)](big-design-up-front)
@@ -395,9 +388,9 @@
 * [Squad team](squad-team)
 * [Community of Practice (CoP)](community-of-practice)
 * [The Spotify Model](the-spotify-model)
-  
+
 ### Team locations
-  
+
 * [Outsourcing](outsourcing)
 * [Offshoring](offshoring)
 * [Nearshoring](nearshoring)
@@ -453,6 +446,7 @@
 * [Variance](variance)
 * [Trend analysis](trend-analysis)
 * [Anomaly detection](anomaly-detection)
+* [Discrete outcome](discrete-outcome)
 * [Quantitative fallacy](quantitative-fallacy)
 * [Regression to the mean](regression-to-the-mean)
 * [Bayes' theorem](bayes-theorem)
@@ -460,45 +454,17 @@
 * [Monte Carlo methods](monte-carlo-methods)
 * [Statistical analysis techniques](statistical-analysis-techniques)
 
+
 ### [Artificial intelligence (AI)](artificial-intelligence)
 
 * [AI for business strategy](ai-for-business-strategy)
 * [AI for product development](ai-for-product-development)
 * [AI for project management](ai-for-project-management)
 * [AI for partner management](ai-for-partner-management)
-* [AI customer service](ai-customer-service)
-* [AI content generator](ai-content-generator)
-* [AI image generation](ai-image-generation)
-* [AI resource leveling](ai-resource-leveling)
-* [AI UI/UX](ai-ui-ux)
-* [AI ethics](ai-ethics)
-* [AI plagiarism checker](ai-plagiarism-checker)
-* [AI internationalization/localization](ai-internationalization-localization)
-
-### AI for company departments
-
-* [AI sales](ai-sales)
-* [AI marketing](ai-marketing)
-* [AI accounting](ai-accounting)
-* [AI human resources](ai-human-resources)
-
-### [AI + business sectors](ai-plus-business-sectors)
-
-* [AI + adtech (advertising technology)](ai-plus-adtech)
-* [AI + agtech (agricultural technology)](ai-plus-agtech)
-* [AI + biotech (biological technology)](ai-plus-biotech)
-* [AI + cleantech (clean technology)](ai-plus-cleantech)
-* [AI + edtech (educational technology)](ai-plus-edtech)
-* [AI + fintech (financial technology)](ai-plus-fintech)
-* [AI + govtech (governmental technology)](ai-plus-govtech)
-* [AI + legtech (legal technology)](ai-plus-legtech)
-* [AI + martech (marketing technology)](ai-plus-martech)
-* [AI + medtech (medical technology)](ai-plus-medtech)
-* [AI + regtech (regulatory technology)](ai-plus-regtech)
-* [AI + realtech (real estate technology)](ai-plus-realtech)
-
-## Accounting
+* For more, see our [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
   
+## Accounting
+
 * [Generally Accepted Accounting Principles (GAAP)](generally-accepted-accounting-principles)
 * [Profit and loss (P&L)](profit-and-loss)
 * [Gross profit and net profit](gross-profit-and-net-profit)
@@ -568,7 +534,7 @@
 * [83(b) election](83-b-election)
 
 ### [Stock options](stock-options)
-  
+
 * [Employee stock option pool](employee-stock-option-pool)
 * [Employee stock purchase plan (ESPP)](employee-stock-purchase-plan)
 * [Restricted stock units (RSUs)](restricted-stock-units)
@@ -657,18 +623,18 @@
 * [Health Insurance Portability and Accountability Act (HIPAA)](health-insurance-portability-and-accountability-act)
 * [Family Educational Rights and Privacy Act (FERPA)](family-educational-rights-and-privacy-act)
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
-  
+
 ## Major league
 
 ### [Globalization](globalization)
- 
+
 * [Global business](global-business)
 * [Global business modes](global-business-modes)
 * [Cross-border controls](cross-border-controls)
 * [Internationalization and localization](internationalization-and-localization)
-  
+
 ### [Global business regions](global-business-regions)
-    
+
 * [The Americas (AMERS) region](the-americas-region)
 * [Europe, Middle East, Africa (EMEA) region](europe-middle-east-africa-region)
 * [Asia-Pacific (APAC) region](asia-pacific-region)
@@ -676,7 +642,7 @@
 * [Oceania region](oceania-region)
 
 ### [Visa sponsorship](visa-sponsorship)
-  
+
 * [US H-1B Visa](us-h-1b-visa)
 * [UK Global Talent Visa](uk-global-talent-visa)
 * [EU Blue Card](eu-blue-card)
@@ -717,7 +683,7 @@
 * [Unknown unknowns](unknown-unknowns)
 * [Stretch goal](stretch-goal)
 * [Firefighting mode](firefighting-mode)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
 ### [Entrepreneur quotations](entrepreneur-quotations)
 
@@ -743,9 +709,10 @@
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-## [About this project
+### [Conclusion](startup-business-guide-conclusion)
 
 * [About the author](about-the-author)
 * [About the AI](about-the-ai)
 * [About the ebook PDF](about-the-ebook-pdf)
 * [About related projects](about-related-projects)
+* [About the guides](about-the-guides)
