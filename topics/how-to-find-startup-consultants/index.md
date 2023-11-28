@@ -14,4 +14,4 @@ Finding startup consultants can help build a successful team, and accelerate you
 
 * Industry associations: Check industry associations related to your business or industry. These associations often have directories of consultants and may provide referrals.
 
-Consultants for your startup can help you grow your company, and supplelment a team with more staff power, expert guidance, and specialized skills. Take the time to research and connect with potential consultants to find the right fit.
+Consultants for your startup can help you grow your company, and supplement a team with more staff power, expert guidance, and specialized skills. Take the time to research and connect with potential consultants to find the right fit.

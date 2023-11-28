@@ -2,7 +2,7 @@
 
 An Account Executive (AE) is a company role typically found in sales and business development departments. The primary responsibility is drive growth by developing client relationships.
 
-Key responsbilities:
+Key responsibilities:
 
 * Sales and Business Development: Generate new business opportunities to expand the client base. Identify potential clients, and build relationships to understand their needs and challenges. Secure new clients and close deals.
 

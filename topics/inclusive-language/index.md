@@ -2,7 +2,7 @@
 
 Inclusive language is language that is consciously chosen and used to avoid words, phrases, and expressions that marginalize or exclude individuals or groups of people based on their gender, race, ethnicity, religion, sexual orientation, disability, or other characteristics. The goal of inclusive language is to promote diversity, equity, and inclusivity in communication and to create a more respectful and welcoming environment for all individuals.
 
-Inclusive language involves both using words that are inclusive and avoiding words that are exclusive or offensive. Some examples of inclusive language include: gender-inclusive terms such as "everyone" instead of "ladies and gentlement", orientation-inclusive terms such as "partner" instead of "boyfriend" or "girlfriend", accountability-inclusive terms such as "our practices" instead of "best practices", group-respecting terms such as "accept/reject" instead of "whitelist/blacklist", etc.
+Inclusive language involves both using words that are inclusive and avoiding words that are exclusive or offensive. Some examples of inclusive language include: gender-inclusive terms such as "everyone" instead of "ladies and gentlemen", orientation-inclusive terms such as "partner" instead of "boyfriend" or "girlfriend", accountability-inclusive terms such as "our practices" instead of "best practices", group-respecting terms such as "accept/reject" instead of "whitelist/blacklist", etc.
 
 There are many benefits to using inclusive language, including:
 

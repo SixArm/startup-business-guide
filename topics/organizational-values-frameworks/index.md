@@ -4,7 +4,7 @@ Organizational values frameworks are sets of principles or guidelines that organ
 
 Some common organizational values frameworks:
 
-* Code of ethics and code of conduct: These frameworks outline ethical principles and conduct principles that people are expected to uphold. These codes provide clear guidelines for behavior, expectations, escalations, and consquences.
+* Code of ethics and code of conduct: These frameworks outline ethical principles and conduct principles that people are expected to uphold. These codes provide clear guidelines for behavior, expectations, escalations, and consequences.
 
 * The membership values framework and leadership values framework: These frameworks define the values and behaviors that are expected of members and leaders of the organization. Typical examples involve collaboration, innovation, and excellence. These frameworks ensure that people are modeling the organization's values, and also increase accountability and transparency.
 

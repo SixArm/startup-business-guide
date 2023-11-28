@@ -59,7 +59,7 @@ Yes there are three more guides that may be of interest to you.
 
 Project Management Guide:
 
-* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices includein agile, lean, kanban, and kaizen.
+* Learn about concepts that help with leading projects, programs, and portfolios. Some examples are the project management life cycle (PMLC), outputs versus outcomes (OVO), Objectives and Key Results (OKRs), Key Performance Indicators (KPIs), SMART criteria, Work Breakdown Structure (WBS), change management, digital transformation, and project management practices including agile, lean, kanban, and kaizen.
 
 * Get it via [Gumroad](https://gumroad.com/l/project-management-guide) or [GitHub](https://github.com/sixarm/project-management-guide)
 

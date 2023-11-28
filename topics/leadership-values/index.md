@@ -8,10 +8,10 @@ Here are some leadership values:
 
 * Integrity: This value involves being honest, ethical, and consistent in behavior and decision-making. Leaders are transparent and accountable for their actions, and inspire trust and confidence.
 
-* Empathy: This value inolves understanding and connecting with the needs and perspectives of others. Leaders are able to build strong relationships with their team members and stakeholders, and create a positive and inclusive culture.
+* Empathy: This value involves understanding and connecting with the needs and perspectives of others. Leaders are able to build strong relationships with their team members and stakeholders, and create a positive and inclusive culture.
 
 * Accountability: This value involves taking responsibility for one's actions and decisions, and holding others accountable for their actions. Leaders set clear expectations, and address issues effectively.
 
-* Continuous learning: This value inolves personal and professional growth. Leaders are open to feedback and new ideas, and seek out opportunities for development and improvement.
+* Continuous learning: This value involves personal and professional growth. Leaders are open to feedback and new ideas, and seek out opportunities for development and improvement.
 
 Leadership values provide a framework for ethical behavior and decision-making, and help to create trust, respect, and collaboration. When leaders align with shared values, they are able to work together more effectively and achieve greater success. Additionally, leadership values can serve as a source of motivation and inspiration for team members, who are more likely to be engaged and committed when they feel that their leader is embodying values that they believe in.

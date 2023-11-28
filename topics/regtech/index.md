@@ -10,7 +10,7 @@ Regtech solutions can be categorized into several areas, including:
 
 * Risk management tools can be used to identify, assess, and manage risks associated with regulatory compliance.
 
-* Identity managemen solutions can help firms manage customer identities and authenticate customer data to meet regulatory requirements.
+* Identity management solutions can help firms manage customer identities and authenticate customer data to meet regulatory requirements.
 
 * Data management and analytics can help firms collect, manage, and analyze large amounts of data to identify compliance risks and trends.
 

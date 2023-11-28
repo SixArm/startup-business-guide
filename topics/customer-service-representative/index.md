@@ -2,7 +2,7 @@
 
 A Customer Service Representative (CSR) is a company role that involves interacting with customers to address inquiries, provide assistance, and ensure a positive customer experience. CSRs serve as the primary point of contact for customer support.
 
-Key reponsibilities:
+Key responsibilities:
 
 * Support: Help customers by addressing their inquiries, concerns, and issues. Listen to customers, empathize with their concerns, and work towards solutions. Provide information, troubleshoot problems, and escalate complex issues.
 

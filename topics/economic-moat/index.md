@@ -8,7 +8,7 @@ There are a variety of economic moats:
 
 * Network Moat. Companies with large strong networks have advantages. For example, social media companies can create a network moat because their value increases as more people join the platform.
 
-* Cost Moat. Companies can have a significant cost advantage over competitors. For example, due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
+* Cost Moat. Companies can have a significant cost advantage over competitors. For example, due to economies of scale, proprietary technology, efficiency capabilities, or a unique business model.
 
 * Switching Moat. A switching moat is when customers can't, or won't, switch from one company's product or service to another. This could be because of contractual relationships, or data ownership, or because of customer loyalty.
 

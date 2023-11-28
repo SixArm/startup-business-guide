@@ -2,9 +2,9 @@
 
 A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful delivery of a product that provides customer value and aligns with company goals.
 
-Typical responsbilities:
+Typical responsibilities:
 
-* Product Vision/Strategy/Plan: Develop product objectives and evolution roadmap. Consider market trends, customer priorities, engineering capabilties, resource availability, and business goals.
+* Product Vision/Strategy/Plan: Develop product objectives and evolution roadmap. Consider market trends, customer priorities, engineering capabilities, resource availability, and business goals.
 
 * User-Centric Requirements: Work with design teams to define user stories and use cases, based on customer insights, user research, and usability testing.
 
