@@ -1,0 +1,9 @@
+# Employee stock option pool
+
+An employee stock option pool is a reserve of company shares set aside by a startup or a company to grant as stock options to its employees, contractors, or advisors. The purpose of creating an option pool is to attract and retain talented personnel by offering them equity ownership in the company, which could potentially be worth more in the future.
+
+When a company is incorporated, the total number of authorized shares is allocated among the founders and early investors, and a portion of the remaining shares is set aside for the employee stock option pool. The size of the option pool is determined by several factors, such as the stage of the company, the industry, the availability of other forms of compensation, and the company's growth plans.
+
+When an employee is granted stock options, they are given the right to purchase a certain number of shares of the company's stock at a specified price (the "exercise price") at a future date or over a period of time. The exercise price is typically set at the fair market value of the company's stock at the time of grant. If the stock price increases in the future, the employee can exercise the options and purchase the shares at the lower exercise price, realizing a profit.
+
+The vesting of stock options refers to the time period over which the employee must remain with the company to be able to exercise their options. The vesting schedule can vary, but it is typically over a period of several years, with a one-year cliff vesting period (where no options vest until one year of employment is completed) and monthly or quarterly vesting thereafter. This helps to incentivize employees to remain with the company for a longer period of time.

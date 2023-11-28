@@ -1,0 +1,9 @@
+# Employee Stock Purchase Plan (ESPP)
+
+An Employee Stock Purchase Plan (ESPP) is a benefit offered by some companies that allows employees to purchase the company's stock at a discounted price. Typically, the discount is between 10-15% off the current market price of the stock. ESPPs can be a great way for employees to participate in the financial success of the company they work for and can also be a powerful tool for companies to retain and motivate their employees.
+
+ESPPs are typically structured as a payroll deduction plan, where employees can choose to contribute a percentage of their salary towards the purchase of company stock. The contribution period is typically six months or a year, and at the end of the contribution period, the company uses the funds to purchase shares of stock on behalf of the employees at the discounted price.
+
+ESPPs are governed by Section 423 of the Internal Revenue Code and provide favorable tax treatment to employees who participate. If certain conditions are met, the discount received by the employee is not taxed as income until the stock is sold. Additionally, if the employee holds the stock for at least two years from the date of the grant and one year from the date of purchase, any gain on the stock is treated as long-term capital gain and taxed at a lower rate.
+
+ESPPs can be a great benefit for employees, but there are some risks to consider as well. The value of the company's stock can fluctuate significantly, which means that the discount received may not always offset any potential losses. Additionally, employees who hold a large percentage of their net worth in company stock may be exposed to significant financial risk if the company's stock performs poorly. It's important for employees to carefully consider their participation in an ESPP and to diversify their investments to manage risk.

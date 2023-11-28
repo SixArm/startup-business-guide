@@ -1,0 +1,7 @@
+# Debt financing
+
+Debt financing is a method of financing for startups in which they borrow funds from an investor or a lender, which must be paid back over time, typically with interest. Debt financing can be used to fund a range of activities in a startup, including operations, product development, or expansion.
+
+Debt financing comes in various forms, including traditional loans, lines of credit, and convertible notes. Traditional loans are the most common form of debt financing, where the borrower receives a set amount of money that must be repaid with interest over a set period. A line of credit is another form of debt financing that provides the borrower with access to a certain amount of money that they can borrow as needed, with interest only being charged on the amount borrowed. Convertible notes are a hybrid form of debt and equity financing where the investor provides a loan to the startup, which can be converted to equity at a later date.
+
+Debt financing can be a good option for startups that have a clear path to revenue and cash flow, as it can provide a relatively low-cost source of capital. However, debt financing comes with the risk of default, which can have serious consequences for the startup's credit rating and ability to secure financing in the future. Additionally, interest payments and principal repayments can eat into a startup's cash flow, which can be challenging to manage in the early stages of growth.

@@ -1,0 +1,9 @@
+# Capitalization table
+
+A capitalization table, or "cap table" for short, is a document that outlines the ownership structure of a company and details the equity and other securities that have been issued by the company. The cap table is a critical tool for startup founders, investors, and stakeholders because it provides a comprehensive view of the company's capitalization and ownership structure, including the ownership percentages of each shareholder or investor.
+
+The cap table typically includes information on the types of securities issued by the company, such as common stock, preferred stock, options, warrants, and convertible notes. It lists the number of outstanding shares for each security and indicates whether the security is fully or partially vested. It also shows the names of each investor or shareholder and their ownership percentage of the company.
+
+The cap table is important for a number of reasons. For example, it helps startup founders and management teams to understand the dilution of their ownership percentage that results from issuing new shares of stock or other securities. It also enables founders and investors to determine the valuation of the company, as well as the potential return on investment for different classes of securities.
+
+The cap table can also be used as a tool to negotiate with potential investors or to identify potential acquisition targets. For example, a startup with a well-organized and accurate cap table may be more attractive to investors because it provides transparency and clarity about the company's ownership structure and capitalization.

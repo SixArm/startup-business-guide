@@ -1,0 +1,9 @@
+# Pay-to-play
+
+Pay-to-play is a term used in the world of venture capital to describe a provision that allows investors to maintain their ownership stake in a company by requiring other investors to participate in future funding rounds or risk having their ownership stake diluted.
+
+In a typical pay-to-play provision, if an existing investor does not participate in a subsequent funding round, they may face a dilution of their ownership stake. For example, if an investor owns 20% of a company's shares before a new funding round, but chooses not to participate in the subsequent funding round, their ownership stake may be reduced to 15% after the new funding round is completed.
+
+Pay-to-play provisions are often included in shareholder agreements or operating agreements, and are used to incentivize existing investors to continue to support the company's growth by participating in subsequent funding rounds. These provisions can be controversial, as they may create additional barriers to entry for new investors, and can be seen as unfairly punishing existing investors who cannot or choose not to participate in subsequent funding rounds.
+
+It is important to note that pay-to-play provisions are not a requirement for venture capital investments, and many investors do not use them. The use of pay-to-play provisions may depend on the particular investors involved, the company's growth prospects, and other factors. It is important for entrepreneurs to carefully consider the terms of any investment offer before accepting it, and to consult with legal and financial professionals to fully understand the implications of the terms of the investment.

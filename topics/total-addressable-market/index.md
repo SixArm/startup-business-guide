@@ -1,0 +1,9 @@
+# Total Addressable Market (TAM)
+
+Total Addressable Market (TAM) is the total market demand for a particular product or service that is available to a company. It represents the total revenue potential of a market and is typically expressed in dollars or units. TAM is an important concept for businesses to understand, as it can help them determine the potential size of a market, estimate the demand for their product or service, and evaluate their growth potential.
+
+To calculate TAM, businesses must identify the entire market for their product or service, including any potential customer segments. They must then determine the total annual revenue for each segment and add them together to arrive at the TAM. For example, if a company is selling a new type of software to the healthcare industry, it would need to determine the size of the healthcare market, segment it based on potential users, and estimate the revenue potential of each segment. This would give the company an estimate of the TAM for its product.
+
+Understanding TAM is important for businesses for several reasons. First, it can help them determine the potential size of their market, which can help guide their growth strategy and investment decisions. It can also help them identify potential competitors, as well as any gaps in the market that they can fill with their product or service. Additionally, by estimating their market size, businesses can better understand the potential revenue they can generate, which can help them set pricing and sales goals.
+
+It's worth noting that TAM is not the same as a company's actual revenue, as it represents the total market demand, rather than the company's share of that demand. To estimate their potential revenue, businesses will need to adjust their TAM based on their market share and other factors, such as pricing and competition.

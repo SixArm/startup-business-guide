@@ -1,0 +1,7 @@
+# Gresham’s Law
+
+Gresham's Law is an economic principle that states "bad money drives out good." It refers to the idea that when there are two types of currency in circulation, people will spend the lower-quality (or debased) currency, while hoarding the higher-quality (or full-bodied) currency. This is because the lower-quality currency is generally worth less than the higher-quality currency, making it more desirable for transactions. As a result, the higher-quality currency tends to be removed from circulation, leaving only the lower-quality currency behind.
+
+The principle was named after Sir Thomas Gresham, an English financier who lived in the 16th century. Gresham observed that during the reign of King Henry VIII, English coins had been debased by reducing the amount of precious metal in them, while foreign coins were still made of full-bodied silver or gold. As a result, people began to hoard the full-bodied foreign coins, while spending the debased English coins, which eventually led to a shortage of full-bodied coins in circulation.
+
+Gresham's Law has since been applied to a wide range of economic scenarios, including the phenomenon of "fake news" driving out credible journalism, or inferior products pushing high-quality products out of the market. It is often cited as an example of how markets can behave in unexpected ways, and how the behavior of individuals can have unintended consequences.

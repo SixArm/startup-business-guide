@@ -1,0 +1,11 @@
+# Vesting schedule
+
+Vesting schedule refers to the timeline or structure of how equity, such as stock options or restricted stock units (RSUs), is distributed to an individual over time, based on certain criteria, such as continued employment or achievement of specific milestones.
+
+Vesting is a common practice in startups, where companies grant equity to employees as a form of compensation or incentive to work towards achieving company goals. The vesting schedule specifies the period over which the employee earns the equity. For example, if an employee is granted 1,000 shares of stock that vest over a four-year period, they may receive 250 shares at the end of each year of employment, with the remaining shares being forfeited if the employee leaves the company before the four-year vesting period is complete.
+
+Vesting schedules typically use a "cliff" and a "vesting period". The cliff is the minimum period of time an employee must work for the company before they become eligible for any equity. This can be as short as one month or as long as a year. Once the cliff period is over, the vesting period begins, which is the time period over which the employee earns equity. Vesting periods can be as short as six months or as long as several years, and may be tied to certain performance metrics.
+
+Vesting schedules can be structured in different ways depending on the goals and needs of the company. For example, a company may use a straight-line vesting schedule, where equity is earned evenly over the vesting period, or a graded vesting schedule, where equity is earned at a higher rate as time goes on. Another common approach is to use performance-based vesting, where equity is earned based on achieving certain milestones or meeting specific goals.
+
+In addition to time-based vesting, companies may use other criteria for vesting, such as company milestones, product launches, or revenue targets. Some companies also use accelerated vesting, which allows employees to earn equity more quickly under certain circumstances, such as a change of control or acquisition.
