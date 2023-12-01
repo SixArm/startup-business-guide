@@ -13,8 +13,8 @@
 
 Startup Business Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the [free ebook](startup-business-guide.pdf)
-* You can [pay what you want](https://gumroad.com/l/startup-business-guide)
+* Download the free ebook file [EPUB](startup-business-guide.pdf) or [PDF](startup-business-guide.pdf)
+* Or pay what you wish with [Gumroad](https://gumroad.com/l/startup-business-guide) or [Zylvie](https://zylvie.com/joelparkerhenderson/p/startup-business-guide)
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
 
