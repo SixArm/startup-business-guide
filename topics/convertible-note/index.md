@@ -2,7 +2,7 @@
 
 A convertible note is a type of short-term debt financing commonly used by startups, which can be converted into equity at a later date. It is essentially a loan that converts into equity when a certain event, such as a future funding round or an acquisition, takes place. Convertible notes are usually issued to early-stage investors who provide seed funding to startups.
 
-The key features of a convertible note typcially include:
+The key features of a convertible note typically include:
 
 * Low interest rate. Ranges from 2% to 8% per annum.
 

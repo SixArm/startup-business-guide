@@ -8,4 +8,4 @@ There are variations of the SAFE: a "pre-money" SAFE converts to equity before t
 
 A potential disadvantage of using a SAFE is that it can create uncertainty for the startup and its investors regarding the future ownership structure of the company. If the startup does well and raises additional financing at a higher valuation, the dilution for the SAFE investor can be significant. Additionally, since a SAFE is not technically equity, it may not provide the same level of protection for investors as traditional equity instruments.
 
-Despite these concerns, SAFEs have become a popular tool for startup financing, especially for early-stage companies that are not yet ready to establish a formal valuation. SAFEs provide a flexible and relatively simple way for startups to raise capital, and also give investors a sipmler way to participate.
+Despite these concerns, SAFEs have become a popular tool for startup financing, especially for early-stage companies that are not yet ready to establish a formal valuation. SAFEs provide a flexible and relatively simple way for startups to raise capital, and also give investors a simpler way to participate.

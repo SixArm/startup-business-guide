@@ -4,11 +4,11 @@ The network effect is a phenomenon in which the value of a product or service in
 
 The network effect can be seen in a variety of products and services, including social media platforms, communication tools, and marketplaces. This is because more users mean more content, more interactions, and more opportunities to connect with others.
 
-The network effect can be broken down into two types:
+**Key types:**
 
-1. Direct network effects: Direct network effects occur when the value of a product or service increases as more users join. Social media platforms like Facebook and LinkedIn are examples of products with direct network effects.
+* **Direct network effects:** Direct network effects occur when the value of a product or service increases as more users join. Social media platforms like Facebook and LinkedIn are examples of products with direct network effects.
 
-2. Indirect network effects: Indirect network effects occur when the value of a product or service increases as more complementary products or services are developed. For example, the value of a video game console like the Xbox or PlayStation increases as more game developers create games for the platform.
+* **Indirect network effects:** Indirect network effects occur when the value of a product or service increases as more complementary products or services are developed. For example, the value of a video game console like the Xbox or PlayStation increases as more game developers create games for the platform.
 
 Network effects can create significant barriers to entry for competitors. When a product or service has a large user base, it can be difficult for competitors to gain a foothold in the market. This is because users are unlikely to switch to a new product or service that has a smaller user base and therefore less value.
 

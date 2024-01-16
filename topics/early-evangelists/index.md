@@ -10,8 +10,8 @@ Early evangelists can also be important for startups because they can help to va
 
 There are several ways that startups can identify and engage with early evangelists:
 
-* Identify users or customers who are particularly engaged with the product, and reach out to them to encourage them to become advocates for the product.
+* **Identify users** who are particularly engaged with the product, and reach out to them to encourage them to become advocates for the product.
 
-* Create communities around the product, where users and customers can connect with each other and share their experiences with the product.
+* **Create communities** around the product, where users and customers can connect with each other and share their experiences with the product.
 
-* Offer incentives or rewards to early evangelists to encourage them to promote the product to others.
+* **Offer incentives** to early evangelists to encourage them to promote the product to others.

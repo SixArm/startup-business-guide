@@ -13,8 +13,13 @@
 
 Startup Business Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free ebook file [EPUB](startup-business-guide.pdf) or [PDF](startup-business-guide.pdf).
-* Or pay what you wish with [Gumroad](https://gumroad.com/l/startup-business-guide) or [Zylvie](https://zylvie.com/joelparkerhenderson/p/startup-business-guide).
+* Get the book: 
+  [Free EPUB](https://github.com/SixArm/startup-business-guide/raw/main/startup-business-guide.epub), 
+  [Free PDF](https://github.com/SixArm/startup-business-guide/raw/main/startup-business-guide.pdf),
+  [Gumroad](https://gumroad.com/l/startup-business-guide),
+  [Zylvie](https://zylvie.com/joelparkerhenderson/p/startup-business-guide),
+  [Kindle](https://www.amazon.com/dp/B0CP4K26HK), 
+  [Paperback](https://www.amazon.com/dp/TODO).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 
@@ -366,8 +371,8 @@ Startup Business Guide: this book explains one topic per page, like a big glossa
 * [Go-to-market strategy](topics/go-to-market-strategy)
 * [Strategy map](topics/strategy-map)
 * [EBFAS organizational climate](topics/ebfas-organizational-climate)
-* [Project management](topics/project-management) - See Project Management Guide
-* [UI/UX](topics/ui-ux) - See UI/UX Guide
+* [Project management](topics/project-management)
+* [UI/UX](topics/ui-ux)
 
 ## Design Development
 
@@ -483,7 +488,7 @@ Startup Business Guide: this book explains one topic per page, like a big glossa
 * [AI for product development](topics/ai-for-product-development)
 * [AI for project management](topics/ai-for-project-management)
 * [AI for partner management](topics/ai-for-partner-management)
-* For more, see our [AI Starter Guide](topics/https://github.com/sixarm/ai-starter-guide)
+* For more, see our [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
   
 ## Accounting
 
@@ -705,7 +710,7 @@ Startup Business Guide: this book explains one topic per page, like a big glossa
 * [Unknown unknowns](topics/unknown-unknowns)
 * [Stretch goal](topics/stretch-goal)
 * [Firefighting mode](topics/firefighting-mode)
-* For more see our [Business Lingo Guide](topics/https://github.com/sixarm/business-lingo-guide)
+* For more see our [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
 
 ### [Entrepreneur quotations](topics/entrepreneur-quotations)
 

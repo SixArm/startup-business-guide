@@ -1,6 +1,8 @@
 # Subscription business model pros/cons
 
-The subscription business model has several advantages for companies, including:
+The subscription business model has pros (i.e. advantages) and cons (i.e. disadvantages).
+
+**Pros:**
 
 * Predictable revenue: Because customers are paying a recurring fee, subscription businesses have a more predictable revenue stream than businesses that rely on one-time sales.
 
@@ -8,7 +10,7 @@ The subscription business model has several advantages for companies, including:
 
 * Higher customer lifetime value: Because customers are paying a recurring fee, the customer lifetime value (CLV) of a subscription business is often higher than businesses that rely on one-time sales.
 
-The subscription business model also has some disadvantages, including:
+**Cons:**
 
 * Churn: Because customers are paying a recurring fee, they are more likely to cancel their subscription if they are not satisfied with the product or service. This can result in high churn rates, which can impact the company's revenue and growth.
 

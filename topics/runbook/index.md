@@ -2,7 +2,7 @@
 
 A runbook, also known as an operations manual or playbook, is a document or collection of documents that provides detailed instructions and information on how to handle and resolve various operational tasks, incidents, or processes within an organization. It serves as a reference guide for the operations team to follow when managing day-to-day operations, troubleshooting issues, or responding to incidents. Benefits include consistency, efficiency, knowledge transfer, standardization, incident response, improved training, greater continuity, and faster disaster recovery.
 
-Key components…
+**Key aspects:**
 
 Purpose: The runbook should clearly state its purpose and the specific operational tasks or processes it covers.
 

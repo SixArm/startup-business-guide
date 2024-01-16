@@ -73,11 +73,11 @@ Topics sampler:
 
 * Business idioms such as ahead of the pack, buy-in, firefighting mode, over the horizon, swoop and poop, unknown unknowns, and win-win.
 
-* Business phorisms such as Brooks' Law, The Law of Demos, The Pareto Principle, The Principle of Least Knowledge, Chesterton's fence, and the Tragedy of the Commons.
+* Business aphorisms such as Brooks' Law, The Law of Demos, The Pareto Principle, The Principle of Least Knowledge, Chesterton's fence, and the Tragedy of the Commons.
 
 * Business quotations such as "Execution eats strategy for lunch", "Learn early, learn often", "Perfect is the enemy of good", and "Data beats emotions".
 
-* Ssoft skills such as how to ask for help, how to collaborate, how to manage expectations, how to negotiate, how to manage up, and how to get and give feedback.
+* Soft skills such as how to ask for help, how to collaborate, how to manage expectations, how to negotiate, how to manage up, and how to get and give feedback.
 
 * And more…
 

@@ -12,7 +12,7 @@ An employee agreement typically covers these sections:
 
 * Non-disclosure/confidentiality: Describe any obligations to protect the company's confidential information, trade secrets, and intellectual property.
 
-* Termination and severance: Outline the conditions under which the employee's employment may be terminated, as well as any severance pay or severace benefits.
+* Termination and severance: Outline the conditions under which the employee's employment may be terminated, as well as any severance pay or severance benefits.
 
 * Non-compete and non-solicitation: Detail any restrictions on the employee's ability to compete with the company or solicit its clients or customers.
 

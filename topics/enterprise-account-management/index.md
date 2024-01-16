@@ -2,7 +2,7 @@
 
 Enterprise account management, also known as key account management or strategic account management, is a comprehensive approach to nurturing relationships with customers at large companies. It involves a deep understanding of the customer's business, and aligning resources to deliver value, foster loyalty, and drive long-term growth.
 
-Key aspects:
+**Key aspects:**
 
 1. Identify Accounts. These accounts are typically the largest, most strategic, or high-potential customers. Selection may use criteria such as revenue contribution, industry influence, market potential, or long-term partnership opportunities.
 

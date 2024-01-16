@@ -8,10 +8,10 @@ To create an MLnP, product teams need to focus on understanding the key skills a
 
 Once the key learning moments have been identified, product teams can create a product that satisfies users' immediate needs plus helps them develop skills to use the product effectively. This may involve tutorials, tips, and other educational materials, as well as designing the product in a way that guides users through the learning process.
 
-Some key benefits of the MLnP approach include:
+**Key benefits:**
 
-* Increased user engagement: By helping users develop skills to use the product effectively, MLnP can increase user engagement and satisfaction, leading to higher retention rates and increased revenue.
+* **Increased user engagement:** By helping users develop skills to use the product effectively, MLnP can increase user engagement and satisfaction, leading to higher retention rates and increased revenue.
 
-* Reduced support costs: By designing the product in a way that teaches users how to use it effectively, product teams can reduce the need for customer support, which can lower costs and improve satisfaction.
+* **Reduced support costs:** By designing the product in a way that teaches users how to use it effectively, product teams can reduce the need for customer support, which can lower costs and improve satisfaction.
 
-* Increased product adoption: By providing users with a clear learning path, MLnP can help to overcome the initial learning curve, leading to increased adoption and usage.
+* **Increased product adoption:** By providing users with a clear learning path, MLnP can help to overcome the initial learning curve, leading to increased adoption and usage.

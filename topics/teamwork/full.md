@@ -4,7 +4,7 @@ Teamwork refers to the collaborative effort of a group of individuals working to
 
 * Collaboration: Teamwork emphasizes collaboration among team members. It involves active participation, sharing of ideas, and pooling of resources to solve problems, make decisions, and accomplish tasks. Collaborative teamwork encourages open communication, respect for diverse perspectives, and a collective approach to achieving goals.
 
-* Synergy: Teamwork often leads to synergy, where the combined efforts of the team produce results that are greater than the sum of individual contributions. Through effective collaboration and leveraging the strengths of each team member, teams can generate innovative ideas, find creative solutions, and achieve higher levels of productivity.
+* Synergy: Teamwork often leads to synergy, where combined efforts produce results that are greater than the sum of individual contributions. Through effective collaboration and leveraging the strengths of each team member, teams can generate innovative ideas, find creative solutions, and achieve higher levels of productivity.
 
 * Division of Labor: Teamwork allows for the division of labor, where tasks and responsibilities are distributed among team members based on their skills, expertise, and interests. This division ensures that the workload is shared, reduces individual burden, and allows team members to focus on their areas of expertise, thereby increasing efficiency and productivity.
 

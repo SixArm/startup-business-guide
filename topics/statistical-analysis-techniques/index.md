@@ -14,6 +14,6 @@ Time Series Analysis: Study patterns, trends, and seasonality in data. Examples:
 
 Factor Analysis: Identify underlying factors or latent variables that explain the correlations among observed variables.
 
-Cluster Analysis: Identify groups or clusters within a data set based on similarities or dissimilarities among observations. Exaamples: k-means clustering, hierarchical clustering, and DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
+Cluster Analysis: Identify groups or clusters within a data set based on similarities or dissimilarities among observations. Examples: k-means clustering, hierarchical clustering, and DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
 
 Data Mining: Discover patterns, relationships, and insights in large and complex data sets. Example: decision trees, random forests, support vector machines, and neural networks.

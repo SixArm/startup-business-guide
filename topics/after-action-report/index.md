@@ -4,16 +4,16 @@ An after-action report (AAR) is a structured review and analysis of a specific e
 
 An AAR typically involves gathering data and feedback from all relevant stakeholders, including participants, leaders, and observers. The data may include observations, notes, and recordings of the event, as well as interviews and surveys with participants and stakeholders. The data is analyzed to identify strengths, weaknesses, opportunities, and threats (SWOT analysis) related to the event or project.
 
-AARs typically follow a structured format that includes several key components, including:
+**Key aspects:**
 
-* Objectives: A clear statement of the purpose and goals of the AAR.
+* **Objectives**: A clear statement of the purpose and goals of the AAR.
 
-* Participants: A list of the participants and stakeholders involved in the event or project.
+* **Participants**: A list of the participants and stakeholders involved in the event or project.
 
-* Observations: A detailed summary of what happened during the event or project, including any issues, challenges, or successes.
+* **Observations**: A detailed summary of what happened during the event or project, including any issues, challenges, or successes.
 
-* Analysis: An in-depth analysis of the data collected, including a SWOT analysis and identification of the root causes of any issues or challenges.
+* **Analysis**: An in-depth analysis of the data collected, including a SWOT analysis and identification of the root causes of any issues or challenges.
 
-* Recommendations: Actionable recommendations for improvement based on the findings of the analysis.
+* **Recommendations**: Actionable recommendations for improvement based on the findings of the analysis.
 
-* Implementation Plan: A detailed plan for implementing the recommendations, including timelines, responsibilities, and resources needed.
+* **Implementation Plan**: A detailed plan for implementing the recommendations, including timelines, responsibilities, and resources needed.

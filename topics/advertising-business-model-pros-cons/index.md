@@ -1,19 +1,21 @@
 # Advertising business model pros/cons
 
-The advertising business model has several advantages for both companies and advertisers, including:
+The advertising business model has pros (i.e. advantages) and cons (i.e. disadvantages), for companies as well as for advertisers.
 
-* Reach: Advertisers can reach a large audience or user base through the company's platform, which can help them increase brand awareness and sales.
+**Pros**:
 
-* Targeting: Advertisers can target their ads to specific audiences or users, based on factors such as demographics, interests, and behavior. This can help them increase the effectiveness of their ads and reduce wasted ad spend.
+* **Reach**: Advertisers can reach a large audience or user base through the company's platform, which can help them increase brand awareness and sales.
 
-* Measurement and analytics: Advertisers can track the effectiveness of their ads and adjust their strategies accordingly, based on real-time data and insights.
+* **Targeting**: Advertisers can target their ads to specific audiences or users, based on factors such as demographics, interests, and behavior. This can help them increase the effectiveness of their ads and reduce wasted ad spend.
 
-* Revenue sharing: Content creators or service providers on the company's platform can generate revenue by sharing in the advertising revenue.
+* **Measurement and analytics**: Advertisers can track the effectiveness of their ads and adjust their strategies accordingly, based on real-time data and insights.
 
-The advertising business model also has some disadvantages, including:
+* **Revenue sharing**: Content creators or service providers on the company's platform can generate revenue by sharing in the advertising revenue.
 
-* Ad fatigue: Users or audiences may become fatigued or annoyed by the amount of advertising on the platform, which can reduce engagement and retention.
+**Cons**:
 
-* Ad-blockers: Users may use ad-blocking software or tools to avoid seeing ads, which can reduce the effectiveness of the advertising model.
+* **Ad fatigue**: Users or audiences may become fatigued or annoyed by the amount of advertising on the platform, which can reduce engagement and retention.
 
-* Revenue sharing: Content creators or service providers may receive a smaller portion of the advertising revenue than they would if they sold their own advertising directly.
+* **Ad-blockers**: Users may use ad-blocking software or tools to avoid seeing ads, which can reduce the effectiveness of the advertising model.
+
+* **Revenue sharing**: Content creators or service providers may receive a smaller portion of the advertising revenue than they would if they sold their own advertising directly.

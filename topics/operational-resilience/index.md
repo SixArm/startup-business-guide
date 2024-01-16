@@ -6,16 +6,16 @@ Operational resilience helps recover from disruptions, and adapt and evolve in r
 
 Operational resilience is especially important in industries where even brief disruptions can have serious consequences, such as financial services, healthcare, and critical infrastructure.
 
-Operational resilience includes the following steps:
+**Typical aspects:**
 
-* Risk assessment: Identify potential sources of disruption, such as cyber threats, natural disasters, and human errors; assess the likelihood and potential impact of each.
+* **Risk assessment:** Identify potential sources of disruption, such as cyber threats, natural disasters, and human errors; assess the likelihood and potential impact of each.
 
-* Business impact analysis: Assess potential consequences of disruptions on business processes, services, and operations, as well as on customers, employees, and other stakeholders.
+* **Business impact analysis:** Assess potential consequences of disruptions on business processes, services, and operations, as well as on customers, employees, and other stakeholders.
 
-* Strategy development: Develop strategies and plans to minimize the impact of disruptions and ensure the continuity of critical business processes, services, and operations.
+* **Strategy development:** Develop strategies and plans to minimize the impact of disruptions and ensure the continuity of critical business processes, services, and operations.
 
-* Implementation: Implement the strategies and plans, develop contingency plans, establish redundant systems and processes, and invest in infrastructure.
+* **Implementation:** Implement the strategies and plans, develop contingency plans, establish redundant systems and processes, and invest in infrastructure.
 
-* Testing and validation: Test and validate the strategies and plans through regular simulations, drills, and exercises to identify gaps and areas for improvement.
+* **Testing and validation:** Test and validate the strategies and plans through regular simulations, drills, and exercises to identify gaps and areas for improvement.
 
-* Continuous improvement: Monitor and improve the resilience of the organization through ongoing risk assessments, business impact analyses, and strategy reviews.
+* **Continuous improvement:** Monitor and improve the resilience of the organization through ongoing risk assessments, business impact analyses, and strategy reviews.

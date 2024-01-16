@@ -4,7 +4,7 @@ Shoshin is a Japanese term that translates to "beginner's mind" or "beginner's a
 
 In the context of personal and professional growth, shoshin encourages individuals to approach situations with a fresh perspective, as if they were beginners, regardless of their level of knowledge or skill. It emphasizes the importance of continuous learning, staying receptive to new ideas, and embracing a sense of humility.
 
-Key aspects…
+**Key aspects:**
 
 Open-mindedness: Be receptive to new information, perspectives, and possibilities. Let go of preconceived notions and being willing to explore different ideas and approaches.
 
