@@ -1,0 +1,30 @@
+---
+title: "Startup Business Guide"
+author: "By Joel Parker Henderson"
+date: "2024-01-01"
+subtitle: "Strategy • Tactics • Concepts • Inspirations"
+description: >
+  Topics such as entrepreneurship, pitch decks, market/customer/product
+  discovery, product-market fit (PMF), minimum viable product (MVP), industries
+  and sectors, roles and responsibilities, sales and marketing, and venture
+  capital (VC).
+cover-image: "../../README.jpg"
+logo: "../README.jpg"
+logo-width: 100
+page-background:
+page-background-opacity:
+links-as-notes: false
+#lot: true
+#lof: true
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+header-left:
+header-center:
+header-right:
+footer-left: "© Joel Parker Henderson"
+footer-center: "License: CC-BY-NC-SA-4.0"
+footer-right:
+subparagraph: true
+lang: "en-US"
+---
