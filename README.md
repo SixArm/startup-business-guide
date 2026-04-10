@@ -378,8 +378,9 @@ Startup Business Guide: this book explains one topic per page, like a big glossa
 
 - [Big design up front (BDUF)](topics/big-design-up-front)
 - [Domain-Driven Design (DDD)](topics/domain-driven-design)
-- [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
 - [Test-Driven Development (TDD)](topics/test-driven-development)
+- [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
+- [Specification-Driven Development (SDD)](topics/specification-driven-development)
 - [Voice of the Customer (VoC)](topics/voice-of-the-customer)
 
 ## Business metrics
